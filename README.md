@@ -31,7 +31,9 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.1/0.1.gif)
+Probability of 0.1
+Nearest neighbors vary from 10 to 50
 
 ### Break down into end to end tests
 
