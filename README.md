@@ -32,11 +32,15 @@ End with an example of getting some data out of the system or using it for a lit
 ## Running the tests
 
 ![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.1/0.1.gif)
+
 _Probability of 0.1_
+
 _Nearest neighbors vary from 10 to 50_
 
 ![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Nearest%20Neighbors%2010/k10.gif)
+
 _Nearest Neighbor 10_
+
 _Probability vary from 0.1 to 1.0_
 
 
