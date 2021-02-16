@@ -35,6 +35,11 @@ End with an example of getting some data out of the system or using it for a lit
 Probability of 0.1
 Nearest neighbors vary from 10 to 50
 
+![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Nearest%20Neighbors%2010/k10.gif)
+Nearest Neighbor 10
+Probability vary from 0.1 to 1.0
+
+
 ### Break down into end to end tests
 
 Explain what these tests test and why
