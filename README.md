@@ -1,33 +1,21 @@
 # Covid-Lockdown-Project
 This is the repository that houses our covid lockdown project. We tried to check if lockdown really helps in a pandemic like covid19. Also we tried to study what kind of lockdown would be the best for the population and the economy of the population. 
 
-## Getting Started
+## Abstract
 
 
-### Prerequisites
+## Components
 
-As this code is in the form of Google Colaboratory Notebook, you can start running the code straight from the browser. But if you're willing to run the code locally, you'd be needing the following packages
-```
-Give examples
-```
+### Epidemiological Compartmental Model
 
-### Installing
+[Compartmental Models](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology) are mathematical sets of differential equation used to study an epidemic or pandemic through time. These differential equations may be solvable or may be not. There are many kinds of compartmental model which are used by researchers for their specific research. In this project **S-E-I-R-S** model has been used. Each letter in the model means a compartment that is described in details : 
+1. ***Susceptibe        (S) =*** _The compartment of Individuals who can get exposed to the virus._
+2. ***Exposed           (E) =*** _The compartment of Individuals who has been exposed to the virus by someone infected. The exposed individuals do not show symptoms and do not expose other susceptible. One in every 5 exposed individuals starts to show symptoms and is moved to Infected._
+3. ***Infected          (I) =*** _The compartment of Individuals who turned symptomatic are in this compartment. These individuals can expose the virus to susceptible and make them Exposed._
+4. ***Recovered/Removed (R) =*** _The compartment of Individuals who have either cured from the virus and no longer Infectious or Susceptible. This also has the individuals who have died in the pandemic._
 
-A step by step series of examples that tell you how to get a development env running
+The time dependent movement of the people from one compartment to another based on the actions of the virus are goverened by sets of differential equations. Each of this equation tells us the rate of change of population in every compartment. That gives epidemiologists and virologists a solid idea of how the virus is infecting the population and how the healthcare measures needs to be placed to incur minimum damage.
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
