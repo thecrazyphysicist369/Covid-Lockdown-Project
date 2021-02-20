@@ -16,6 +16,16 @@ This is the repository that houses our covid lockdown project. We tried to check
 
 The time dependent movement of the people from one compartment to another based on the actions of the virus are goverened by sets of differential equations. Each of this equation tells us the rate of change of population in every compartment. That gives epidemiologists and virologists a solid idea of how the virus is infecting the population and how the healthcare measures needs to be placed to incur minimum damage.
 
+### Watts-Strogatz Small World Network
+![](https://github.com/thecrazyphysicist369/Voting-in-a-Small-World-Network/blob/master/swn.png)
+
+This is a special type of graph, a small world, which depicts the human dynamics of real world in a fundamental level without all the real world abstractions.
+[Watts-Strogatz](https://en.wikipedia.org/wiki/Watts%E2%80%93Strogatz_model) small world network uses 3 variables to define the network.
+
+1. ***Nodes              =  n***   _The total number of nodes in the Small World._
+2. ***Nearest neighbors  =  k***   _The number of nodes each node is connected to. Also called close-contacts._
+3. ***Probability        =  p***   _This is the length of connection of the edges._
+
 
 ## Running the tests
 
