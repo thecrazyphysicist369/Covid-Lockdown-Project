@@ -26,7 +26,26 @@ This is a special type of graph, a small world, which depicts the human dynamics
 2. ***Nearest neighbors  =  k***   _The number of nodes each node is connected to. Also called close-contacts._
 3. ***Probability        =  p***   _This is the length of connection of the edges._
 
+## Strategies of Lockdown
 
+### Low Probability Low Nearest-Neighbors
+```
+description
+```
+### Low Probability Low Nearest-Neighbors
+```
+description
+```
+
+### Low Probability Low Nearest-Neighbors
+```
+description
+```
+
+### Low Probability Low Nearest-Neighbors
+```
+description
+```
 ## Running the tests
 
 ![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.1/0.1.gif)
@@ -69,24 +88,10 @@ Add additional notes about how to deploy this on a live system
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
+
 * **Shaun** - *Author* - [Twitter](https://twitter.com/thecrzyphysicst), [Google Scholar](https://scholar.google.com/citations?hl=en&user=mxc8IfcAAAAJ)
 * **Annesha** - *Author* - [Twitter](https://twitter.com/anneshaghosh14)
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+
