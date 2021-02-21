@@ -30,24 +30,38 @@ This is a special type of graph, a small world, which depicts the human dynamics
 
 ### Low Probability Low Nearest-Neighbors
 ```
-description
+Probability       < 0.3
+Nearest-neighbors < 10
 ```
-### Low Probability Low Nearest-Neighbors
-```
-description
-```
+Description + few images
 
-### Low Probability Low Nearest-Neighbors
+### Low Probability High Nearest-Neighbors
 ```
-description
+Probability       < 0.3
+Nearest-neighbors > 10
 ```
+Description + few images
 
-### Low Probability Low Nearest-Neighbors
+### High Probability Low Nearest-Neighbors
 ```
-description
+Probability       > 0.7
+Nearest-neighbors < 10
 ```
-## Running the tests
+Description + few images
 
+### High Probability High Nearest-Neighbors
+```
+Probability       > 0.7
+Nearest-neighbors > 10
+```
+Description + few images
+
+
+## Simulation
+### Process
+describe what runs in a simulation including how the compartmental-network model works in the pandemic. The tests that is conducted and quarantined. The natural recovery that happens etc etc.
+
+### Results
 ![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.1/0.1.gif)
 
 _Probability of 0.1_
@@ -60,29 +74,7 @@ _Nearest Neighbor 10_
 
 _Probability vary from 0.1 to 1.0_
 
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
-
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
