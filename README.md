@@ -35,14 +35,20 @@ Nearest-neighbors < 10
 ```
 ![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.1/8.png)
 ![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.2/8.png)
-Description + few images
+![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.3/8.png)
+
+_Description_
 
 ### Low Probability High Nearest-Neighbors
 ```
 Probability       < 0.3
 Nearest-neighbors > 10
 ```
-Description + few images
+![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.1/20.png)
+![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.2/20.png)
+![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.3/20.png)
+
+_Description_
 
 ### High Probability Low Nearest-Neighbors
 ```
