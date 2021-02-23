@@ -55,14 +55,22 @@ _Description_
 Probability       > 0.7
 Nearest-neighbors < 10
 ```
-Description + few images
+![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.1/8.png)
+![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.1/8.png)
+![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.1/8.png)
+
+_Description_
 
 ### High Probability High Nearest-Neighbors
 ```
 Probability       > 0.7
 Nearest-neighbors > 10
 ```
-Description + few images
+![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.1/8.png)
+![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.1/8.png)
+![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.1/8.png)
+
+_Description_
 
 
 ## Simulation
