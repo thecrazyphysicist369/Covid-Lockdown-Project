@@ -2,7 +2,7 @@
 This is the repository that houses our covid lockdown project. We tried to check if lockdown really helps in a pandemic like covid19. Also we tried to study what kind of lockdown would be the best for the population and the economy of the population. 
 
 ## Abstract
-
+Time immemorial, humans have been in an unending battle with pathogens. The immune systems of humans have evolved to fight against some dreadful microbes. But some have been fatal to mankind. Viruses are such an infectious agent which can replicate within living bodies and have a vast range of hosts to infect and spread. This spread might be within a local place or a country or across a huge number of countries which is recognized as a pandemic. The 2020 pandemic Covid-19 has affected 216 countries and infected 84 million people globally to date and has completely overwhelmed the worldwide healthcare system. Due to the absence of a vaccine or a proven cure, slowing down the spread was the only way to combat the virus. To curb the rate of spread, countries all over the world had adopted the strategy of complete lockdowns or a ‘stay at home’ policy for regular and irregular spans with only minimal success. In this paper, we have tried simulating the pandemic in a small world network model to understand the spread of the virus in different strategical lockdowns and if imposing complete lockdowns in a pandemic is a boon or a bane.
 
 ## Components
 
@@ -75,11 +75,9 @@ _Nearest Neighbor 10_
 _Probability vary from 0.1 to 1.0_
 
 ## Built With
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
+
+## Contributing Authors
 
 * **Shaun** - *Author* - [Twitter](https://twitter.com/thecrzyphysicst), [Google Scholar](https://scholar.google.com/citations?hl=en&user=mxc8IfcAAAAJ)
 * **Annesha** - *Author* - [Twitter](https://twitter.com/anneshaghosh14)
