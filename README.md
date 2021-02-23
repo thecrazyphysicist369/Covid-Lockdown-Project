@@ -33,6 +33,8 @@ This is a special type of graph, a small world, which depicts the human dynamics
 Probability       < 0.3
 Nearest-neighbors < 10
 ```
+![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.1/8.png)
+![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.2/8.png)
 Description + few images
 
 ### Low Probability High Nearest-Neighbors
