@@ -37,7 +37,7 @@ Nearest-neighbors < 10
 ![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.2/8.png)
 ![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.3/8.png)
 
-_Description_
+_This situation mimics a total lockdown. Here an individual is confined to a geographical locality where it can meet only its nearest neighbors who are geographically nearer to them. This is done by keeping the number of nearest neighbors and the probaility of connection low._
 
 ### Low Probability High Nearest-Neighbors
 ```
