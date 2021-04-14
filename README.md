@@ -48,7 +48,7 @@ Nearest-neighbors > 10
 ![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.2/20.png)
 ![](https://github.com/thecrazyphysicist369/Covid-Lockdown-Project/blob/main/Images/Probability%200.3/20.png)
 
-_Description_
+_This low probability and high nearest neighbors mimics the condition of a contained zone lockdown. In this case the number of people an individual meets is much higher but the people meeting are geographically restricted._
 
 ### High Probability Low Nearest-Neighbors
 ```
